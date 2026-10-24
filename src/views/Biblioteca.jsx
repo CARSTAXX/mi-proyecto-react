@@ -10,7 +10,7 @@ export default function Biblioteca() {
           Escanea o escribe el ISBN de un libro. En la semana 5 tu
           biblioteca se guardará en el dispositivo para verla sin internet.
         </p>
-        <Link to="/agregar" className="btn btn-librero">Agregar libro</Link>
+        <Link to="/agregar" className="btn btn-librero">Agregar PULL REQUEST</Link>
       </EmptyState>
     </section>
   )
