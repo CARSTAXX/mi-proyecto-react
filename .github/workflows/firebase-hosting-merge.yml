@@ -4,9 +4,8 @@
 name: Deploy to Firebase Hosting
 
 on:
-  push:
+  pull_request:
     branches:
-      - main
       - develop
 
 jobs:
