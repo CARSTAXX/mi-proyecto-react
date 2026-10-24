@@ -5,7 +5,7 @@ export default function Biblioteca() {
   return (
     <section>
       <h1 className="h4 mb-3">Mi biblioteca</h1>
-      <EmptyState icono="bi-journal-bookmark" titulo="Aún no tienes libros">
+      <EmptyState icono="bi-journal-bookmark" titulo="MRTO. MARCOS">
         <p className="small">
           Escanea o escribe el ISBN de un libro. En la semana 5 tu
           biblioteca se guardará en el dispositivo para verla sin internet.
